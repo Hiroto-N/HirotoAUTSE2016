@@ -5,4 +5,7 @@ my name is hiroto and I am studying at _AUT_ **University**
 I am testing some **features** available in _markdown_ 
 
 <table>
-  <tr><td>testing a table here</td></tr>
+  <tr><td>testing a table here</td><td>testing a table here</td><td>testing a table here</td></tr>
+</table>
+#title
+_italics_ **bold**
